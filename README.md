@@ -15,7 +15,7 @@ chinese：这个app使用mobilenet识别你选择的图片然后给出最有可�
 2. android >= 8.0(may run under 8.0 but not guaranted)
 
 ###Run the app
-run the app-debug.apk
+1. run the app-debug.apk
 
-####screenshots
-![](./img/jeep.png)
+#### screenshots
+ ![](./img/jeep.jpg)
