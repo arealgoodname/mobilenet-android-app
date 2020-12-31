@@ -6,12 +6,16 @@ this app is really simple,it reads a picture from your device and uses mobilenet
 chinese：这个app使用mobilenet识别你选择的图片然后给出最有可能的分类结果与置信度
 
 #####techniques:
-android studio
-mibilenet from pytorch
-tflite to plant the module into app
+1. android studio
+2. mibilenet from pytorch
+3. tflite to plant the module into app
 
 #####requirements:
-android SDK >=27
-android >= 8.0(may run under 8.0 but not guaranted)
+1. android SDK >=27
+2. android >= 8.0(may run under 8.0 but not guaranted)
 
-try the app,[click here]()
+###Run the app
+run the app-debug.apk
+
+####screenshots
+![](./img/jeep.png)
