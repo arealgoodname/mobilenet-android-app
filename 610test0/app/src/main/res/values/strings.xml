@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TeamA19</string>
+    <string name="main_select_button">选择路径</string>
+    <string name="main_current_path_cn">当前路径</string>
+    <string name="selected_path"></string>
+    <string name="test">test string</string>
+    <string name="predict_result_cn">预测结果:</string>
+    <string name="pre_cate"></string>
+    <string name="pre_poss"></string>
+    <string name="pre_cate_title">类别</string>
+    <string name="pre_poss_title">预测置信度</string>
+</resources>
